@@ -1,6 +1,8 @@
-# fundament
+# Flabber
 
-Theme
+Flabber is een applicatie waarmee je leert in het chinees te tellen.
+
+## technieken
+Observerpattern
 localStorage
 
-TODO ...Binds
