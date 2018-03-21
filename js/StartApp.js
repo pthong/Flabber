@@ -3,8 +3,10 @@ window.onload = function(){
     //defaultTheme = new Theme();
     //originalBleu = new Theme("myTheme","#123456","##EDCBA9");
     themeController = new ThemeController();    
+	countController = new CountController();
+}
 
-
+function doSomething(){
 	var teller = 9728;
 	setInterval(function(){
 		teller++;
